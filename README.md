@@ -46,4 +46,4 @@ EmployeeAttritionPrediction_YourName/
 └── README.md
 
 ## Author
-[Your Name]
+Srishti
